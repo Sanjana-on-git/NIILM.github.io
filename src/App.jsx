@@ -38,7 +38,7 @@ import CurrentInfoSection from "./components/schoolspage/current-info/CurrentInf
 import CurriculumSection from "./components/schoolspage/curriculum/CurriculumSection";
 import RecognitionPage from "./pages/RecognitionPage";
 import UndergraduatePage from "./pages/UndergraduatePage";
-import PostgraduatePage from "./pages/PostGraduatePage";
+import PostgraduatePage from "./pages/PostgraduatePage";
 import AdmissionProcessPage from "./pages/AdmissionProcessPage";
 import ScholarshipPage from "./pages/ScholarshipPage";
 import EligibilityPage from "./pages/EligibilityPage";
