@@ -19,7 +19,7 @@ import News from "./components/Happening/News";
 import Blogs from "./components/Happening/Blogs";
 import NewsLetter from "./components/Happening/NewsLetter";
 import Circulars from "./components/Happening/Circulars";
-import Media from "./components/Happening/media";
+import Media from "./components/Happening/Media";
 import Reports from "./pages/Reports";
 import Guidelines from "./pages/Guidelines";
 import Administration from "./pages/Administration";
